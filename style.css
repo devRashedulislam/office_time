@@ -1,0 +1,11 @@
+.fleax{
+    background-color:rgb(245, 16, 47);
+    display: flex;
+    flex-wrap: wrap;
+}
+.fleax > div{
+    margin: 5px;
+    background-color: blue;
+    padding: 5px;
+    color: white;
+}
